@@ -11,5 +11,9 @@ public class Deom {
         System.out.println(1232131231);
         System.out.println(1232131231);
         System.out.println(1232131231);
+        System.out.println(1232131231);
+        System.out.println(1232131231);
+        System.out.println(1232131231);
+        System.out.println(1232131231);
     }
 }
